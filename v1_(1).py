@@ -287,5 +287,7 @@ def main():
         loop = asyncio.get_event_loop()
         loop.create_task(app.run_polling())
 
-main()
+if __name__ == "__main__":
+    print("🚀 Starting Telegram bot on Railway...")
+    main()
 
