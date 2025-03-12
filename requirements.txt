@@ -1,0 +1,6 @@
+openai
+python-telegram-bot
+firebase-admin
+faiss-cpu
+sentence-transformers
+python-dotenv
